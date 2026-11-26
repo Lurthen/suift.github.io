@@ -580,16 +580,6 @@ body {
   flex-shrink: 0;
 }
 
-.project1 .frame-1 {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border: none;
-  border-radius: 0;
-  filter: none;
-}
-
 .project1 .hover-star {
   position: absolute;
   pointer-events: none;
